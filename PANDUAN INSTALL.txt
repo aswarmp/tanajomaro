@@ -1,0 +1,21 @@
+APLIKASI PENJUALAN PADA KIOS MACOA DENGAN 
+PHP DAN BOOTSTRAP
+APLIKASI INI TIDAK UNTUK DIJUAL LEEEE .
+APLIKASI INI DI TUJUKAN UNTUK PEMBELAJARAN 
+DASAR HTML, PHP DAN BOOTSTRAP.
+
+
+
+### PANDUAN CARA INSTALL
+ copy project ke localhost 
+PERHATIKAN ii indeee leeee buto (xampp/htdocs/kios) 
+buat database dengan nama "malasngoding_kios"
+ import 
+database
+ konfigurasinya ada
+di admin/config.php
+
+ akses: localhost/kios 
+
+Username : malasngoding 
+Password : malasngoding
